@@ -591,8 +591,17 @@ html {
     /*padding: 20px 20px;*/
     top: -20px;
     left: -60px;
-    display: table;
+    /*display: table;*/
 }
+
+.education-timeline .timeline:nth-child(1) .year {
+    padding: 30px 20px;
+}
+
+.education-timeline .timeline:nth-child(2) .year {
+    padding: 15px 20px;
+}
+
 
 /*.education-timeline .year .year-contain {
     display: table-cell;
