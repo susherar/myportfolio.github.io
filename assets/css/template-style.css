@@ -594,10 +594,10 @@ html {
     display: table;
 }
 
-.education-timeline .year .year-contain {
+/*.education-timeline .year .year-contain {
     display: table-cell;
     vertical-align: middle;
-}
+}*/
 
 
 .education-timeline .content .education-info {
