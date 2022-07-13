@@ -692,7 +692,7 @@ html {
 }
 
 .education-timeline .timeline:nth-child(4n+3) .content:before {
-    background: linear-gradient(to top left, transparent 50%, #123a0a 52%);
+    background: linear-gradient(to top left, transparent 50%, #f57f17 52%);
 }
 
 .education-timeline .timeline:nth-child(4n+3) .year {
